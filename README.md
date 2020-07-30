@@ -1,2 +1,2 @@
-# wbbdevops
-WBB DevOps Repo 1
+# wbbdevops repository for PG DO - Git and GitHub Training
+
